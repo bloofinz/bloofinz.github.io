@@ -3,7 +3,7 @@ title: "Bluefin Larvae in Oligotrophic Ocean Foodwebs, Investigations of Nutrien
 collection: publications
 permalink: /publication/2021-gerard
 excerpt: ''
-date: in review
+date: 2021-04-01
 venue: 'Journal of Plankton Research'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Gerard, T., Lamkin, J. T., Kelly, T. B., Knapp, A. N., Laiz-Carrion, R., Malca, E., et al. (in review). Bluefin Larvae in Oligotrophic Ocean Foodwebs, Investigations of Nutrients to Zooplankton:  Overview of the BLOOFINZ-Gulf of Mexico program. Journal of Plankton Research.'
